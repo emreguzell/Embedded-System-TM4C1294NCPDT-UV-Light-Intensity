@@ -24,7 +24,7 @@
     
 -----------------------------------------
 
-<img src = "Demonstration.jpg" width = "1000" >
+<img src = "Demonstration.jpg" width = "100" >
 
 ------------------------------------------
 
