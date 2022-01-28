@@ -22,11 +22,11 @@
 
     are used.
     
-  <img width="1321" height="188"  src="Flowchart.png">
+  <img src="Flowchart.png">
 
 ## Photo
 
-  <img width="504" height="378" src="Demonstration.jpg">
+  <img src="Demonstration.jpg">
 
 
 ------------------------------------------
