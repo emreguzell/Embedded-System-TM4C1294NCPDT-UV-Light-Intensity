@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# TM4C1294NCPDT-UV-Light-Intensity
-=======
 # EMBEDDED SYSTEMS PROJECT / Safe Disinfecting Device (ML5811 UV Light Intensity with TM4C1294NCPDT)
 
 ## About
