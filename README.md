@@ -22,7 +22,7 @@
 
     are used.
     
-  <img src="Flowchart.png">
+  <img width="1321" height="188"  src="Flowchart.png">
 
 ## Photo
 
