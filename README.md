@@ -22,7 +22,7 @@
 
     are used.
     
-![](flowchart.png)
+  <img src="Demonstration.jpg">
 
 ## Photo
 
