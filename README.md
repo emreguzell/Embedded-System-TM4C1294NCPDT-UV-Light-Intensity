@@ -21,7 +21,9 @@
   - TCP / IP 
 
     are used.
+    
 ![](flowchart.png)
+
 ## Photo
 
   <img width="504" height="378" src="Demonstration.jpg">
