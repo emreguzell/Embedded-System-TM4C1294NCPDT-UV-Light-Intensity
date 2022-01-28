@@ -26,7 +26,7 @@
 
 ## Photo
   <p align="center">
-  <img  width="504" height="378" src="Demonstration.jpg">
+  <img src="Demonstration.jpg">
   </p>
 
 ------------------------------------------
