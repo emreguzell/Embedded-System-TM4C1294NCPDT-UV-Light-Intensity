@@ -24,7 +24,9 @@
     
 -----------------------------------------
 
-<img src = "Demonstration.jpg" width = "100" >
+<p align="center">
+  <img width="460" height="300" src="Demonstration.jpg">
+</p>
 
 ------------------------------------------
 
