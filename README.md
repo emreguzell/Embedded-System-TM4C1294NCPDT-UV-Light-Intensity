@@ -25,9 +25,9 @@
   <img src="Flowchart.png">
 
 ## Photo
-
+  <p align="center">
   <img  width="504" height="378" src="Demonstration.jpg">
-
+  </p>
 
 ------------------------------------------
 
