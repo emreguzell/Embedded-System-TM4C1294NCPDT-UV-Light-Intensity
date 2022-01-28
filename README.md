@@ -25,7 +25,7 @@
 -----------------------------------------
 
 <p align="center">
-  <img width="1008" height="756" src="Demonstration.jpg">
+  <img width="504" height="378" src="Demonstration.jpg">
 </p>
 
 ------------------------------------------
