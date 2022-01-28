@@ -25,9 +25,3 @@
 ------------------------------------------
 
 ### This project has been created within the scope of Embedded Systems Design (EEM449) course at Eskişehir Technical University.
-
-
-
-
-
->>>>>>> a85609d (first commit)
