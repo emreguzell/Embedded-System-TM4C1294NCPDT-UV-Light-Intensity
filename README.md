@@ -24,7 +24,7 @@
     
   <img src="Flowchart.png">
 
-## Photo
+## Hardware
   <p align="center">
   <img src="Demonstration.jpg">
   </p>
